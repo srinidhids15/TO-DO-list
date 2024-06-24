@@ -19,10 +19,15 @@ Copy code
 git clone https://github.com/srinidhids15/TO-DO-list.git
 <BR>
 Navigate to the project directory:
+<BR>
 Copy code
+<BR>
 cd TO-DO-list
+<br>
 Open the index.html file in your web browser:
+<br>
 Copy code
+<br>
 open index.html
 # Project Structure
 to-do-list-app/
