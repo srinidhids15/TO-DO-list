@@ -1,0 +1,59 @@
+body{
+  background: rgb(217,8,235);
+background: linear-gradient(90deg, rgba(217,8,235,1) 2%, rgba(14,15,213,1) 79%, rgba(15,5,94,1) 100%);
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+.container{
+  width: 360px;
+  padding: 33px;
+  text-align: center;
+  background-color: #fff;
+  margin-left: 33%;
+  margin-top: 5px;
+
+}
+input{
+  width: 270px;
+  padding: 8px;
+  border: 2px solid rgb(13, 13, 239);
+  outline: none;
+  font-size: 19px;
+
+
+}
+button{
+  width: 60px;
+  height: 41px;
+  background: linear-gradient(135deg,#0909ce,#9d07e3);
+  color: white;
+  border: none;
+  cursor: pointer;
+
+  outline: none;
+  border-radius: 2px;
+  font-size: 19px;
+}
+.text ul{
+  position: relative;
+  background: linear-gradient(0deg,#0909ce,#9d07e3);
+  color: white;
+  font-size: 19px;
+  padding: 7px;
+  text-align: left;
+}
+.text ul i{
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
